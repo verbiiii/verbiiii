@@ -1,7 +1,7 @@
 # Dyllan McCreary  
 **Research Engineer (AI / Systems / Reinforcement Learning)**  
 
-[GitHub](https://github.com/verbiiyo) • [LinkedIn](https://www.linkedin.com/in/dyllanm/) • dyllan@xlate.ai • dyllanmccreary@gmail.com (preferred)
+[GitHub](https://github.com/verbiiii) • [LinkedIn](https://www.linkedin.com/in/dyllanm/) • dyllan@xlate.ai • dyllanmccreary@gmail.com (preferred)
 
 ## 🧠 Summary
 
