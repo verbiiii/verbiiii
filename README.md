@@ -1,4 +1,4 @@
-### verbii/dyllan
+### nollied/dyllan/verbii
 
 Currently building [xos](https://github.com/xlateai/xos), a universal standard library for python.
 
