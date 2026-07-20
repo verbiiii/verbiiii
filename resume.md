@@ -5,16 +5,7 @@
 
 ## 🧠 Summary
 
-Lead Research Engineer specializing in reinforcement learning, nanometer hardware design, simulation, and nearly all modalities in AI. Built and deployed superhuman RL agents at quilter.ai, contributed to Google Brain research, and attended NeurIPS — now founding the next generation of on-device and personalized AI at xlate.
-
-## 🏆 Greatest Achievement
-
-Led development of **quilter.ai’s reinforcement learning system**, capable of designing circuit boards **faster and more efficiently than human electrical engineers**, combining:
-
-- Reinforcement learning and game design
-- Geometric constraint solving  
-- Large-scale simulation environments  
-- Novel training strategies outperforming internal state-of-the-art methods  
+Software Engineer with experience spanning hardware design, large-scale simulation, operating systems, build systems, compiler technology, and machine learning. Previously led development of quilter.ai's reinforcement learning system for automated PCB design and now building reusable software infrastructure at xlate to make complex applications faster to build, test, and maintain.
 
 ## 🧰 Skills
 
