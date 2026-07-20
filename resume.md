@@ -33,12 +33,11 @@ Rust • Japanese • WebAssembly • UI/Design • iOS
 **Aug 2024 – Present**  
 https://github.com/xlateai  
 
-Building next-generation systems for **real-time, on-device AI training and interaction**, focused on unifying learning, interfaces, and compute.
+Building reusable systems software and developer infrastructure for high-performance, cross-platform applications, with a focus on operating systems, build systems, compiler technology, testing, and runtime frameworks.
 
-- Developed **xlate.ai** (https://xlate.ai), a language learning agent with per-token breakdowns and contextual understanding  
-- Built **xos** (https://github.com/xlateai/xos), an experimental application and AI framework  
-- Built **Doom RL** (https://github.com/verbiiyo/doom-rl)  
-- Created **sensorlab** (https://github.com/xlateai/sensorlab), a unified iOS sensor experimentation platform  
+- Architecting a cross-platform operating system and application framework spanning desktop, mobile, web, and embedded platforms
+- Designing build, deployment, and testing infrastructure to accelerate development and improve software reliability
+- Developing compiler, runtime, and developer tooling to support scalable application development
 
 ---
 
