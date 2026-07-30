@@ -63,7 +63,7 @@ https://gitcoin.co
 ---
 
 ### Activeloop AI — Machine Learning Engineer  
-**Mar 2021 – Mar 2022**  
+**Feb 2021 – Oct 2022**  
 https://www.activeloop.ai/  
 
 - Architected systems for **petabyte-scale dataset streaming**  
